@@ -1,0 +1,3 @@
+<view class="tab-bar-left">
+    <text class='tab-text {{index == selectedIndex? "isSelected":""}}' wx:for="{{tabList}}" wx:key="{{index}}" bindtap="selectTab" data-index="{{index}}">{{item}}</text>
+</view>

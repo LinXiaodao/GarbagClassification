@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="tab-bar-left">
+    <component-tab tabList="{{tabList}}" selectedIndex="{{selectedIndex}}"></component-tab>
+</view>

@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "垃圾分类指南",
+    "usingComponents": {
+        "component-tab": "/components/tab/tab"
+    }
+}

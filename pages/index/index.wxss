@@ -1,0 +1,23 @@
+/**index.wxss**/
+
+.tab-bar-left {
+    position: absolute;
+    width: 150rpx;
+    height: 100%;
+    background: #EEEEE0;
+}
+
+.tab-text {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 80rpx;
+    line-height: 80rpx;
+    font-size: 30rpx;
+    text-align: center;
+}
+
+.isSelected {
+    background: #9ACD32;
+    color: white;
+}
